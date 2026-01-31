@@ -4,10 +4,10 @@ I build end-to-end systems focusing on performance, clean architecture,
 and real-world integration (C++, Rust, Node.js, Electron, Spring Boot).
 
 🔧 Featured Projects
-• High-performance C++ fuzzy matcher (algorithms + benchmarking)
-• Rust thread-safe task queue with concurrency benchmarks
-• Electron + React desktop app integrating Twitch + X APIs
-• Microservice-based ticketing system with Docker & auth
+• High-performance C++ fuzzy matcher (algorithms + benchmarking),
+• Rust thread-safe task queue with concurrency benchmarks,
+• Electron + React desktop app integrating Twitch + X APIs,
+• Microservice-based ticketing system with Docker & auth,
 
 💼 Currently seeking a Graduate / Junior Software Engineer role (UK)
 
