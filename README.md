@@ -9,7 +9,7 @@ and real-world integration (C++, Rust, Node.js, Electron, Spring Boot).
 • Electron + React desktop app integrating Twitch + X APIs,
 • Microservice-based ticketing system with Docker & auth,
 
-💼 Currently seeking a Graduate / Junior Software Engineer role (UK)
+💼 Currently seeking a Graduate / Junior Software Engineer role (UK or Ireland)
 
 <!--
 **RYANDONNELLY40329285/RYANDONNELLY40329285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
